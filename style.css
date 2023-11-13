@@ -1,4 +1,7 @@
- #menu_text{
+h1{
+	color : blue ;
+}
+#menu_text{
 	             background-color :#32a894; 
     	             text-align:center ;
     	             padding: 80px  20px ;
