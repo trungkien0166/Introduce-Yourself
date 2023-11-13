@@ -41,8 +41,8 @@
        	#flex_container{ 
        	 display : flex ; 
        	 flex-wrap: nowrap;
-        width: 70%;
-        margin: auto;
+        width: 80%;
+         margin: auto;
        }
 
        footer { background-color:#333;
