@@ -96,3 +96,7 @@ table th {
        	 flex-wrap :wrap;}       	 
 .course_item {   
     flex : 50%; }   
+footer > div {
+	    font-size : 15px;
+    }
+	
