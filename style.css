@@ -13,6 +13,8 @@
      padding: 5px;
            }
            nav a { color : white ;
+		  display : flex;
+		  padding : 5px;
        }
        #left_side{ flex: 25% ;
 
