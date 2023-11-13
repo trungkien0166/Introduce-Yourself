@@ -35,7 +35,7 @@
         float: left ;
            }
           nav a.menu_left{ float:left ;}
-          nav a.menu_right{float:right ;}     
+          nav a.menu_right{float:left ;}     
         nav a:hover {
         background-color:#ddd;
        color:black ;}
@@ -94,7 +94,7 @@ table th {
 	 font-size:  150% ;
 	 font-weight: bold ;
 }	 
-@media(max-width: 800px){
+@media(min-width: 768px){
 #right_side{ flex: 100% ;}
 #left_side{ flex: 100% ;}
 }
