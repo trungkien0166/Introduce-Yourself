@@ -7,9 +7,10 @@
                }
       nav { 
 		background-color :#333; 
-			text-align: center ;	
-			 
-			 overflow: hidden;
+		text-align: center ;	
+		overflow: hidden;
+	        position: fixed;
+
            }
            nav a { color : white ;
        }
