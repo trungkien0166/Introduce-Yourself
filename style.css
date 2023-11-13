@@ -32,8 +32,7 @@
         text-decoration: none;
         float: left ;
            }
-          nav a.menu_left{ float:left ;}
-          nav a.menu_right{float:left ;}     
+             
         nav a:hover {
         background-color:#ddd;
        color:black ;}
