@@ -9,8 +9,8 @@
 		background-color :#333; 
 		text-align: center ;	
 		overflow: hidden;
-	        position: flex;
-
+	    display : flex;
+     padding: 5px;
            }
            nav a { color : white ;
        }
@@ -40,6 +40,9 @@
        	 display : flex ; 
        	 flex-wrap: nowrap;
        }
+#social{
+position
+}
        footer { background-color:#333;
        	text-align: center;
        	padding: 10px;
