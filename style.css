@@ -13,7 +13,8 @@
     display: flow;
       
       }
-
+nav a {
+	padding-right : 20px;
         
        #left_side{ flex: 25% ;
 
