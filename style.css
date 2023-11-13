@@ -6,7 +6,13 @@
     	             margin: 0px;
                }
       nav { 	   
-                display: flex;    }
+    display: flex; 
+    background: #333333;
+    color: white;
+    text-decoration: initial;
+    display: flow;
+      
+      }
 
         
        #left_side{ flex: 25% ;
