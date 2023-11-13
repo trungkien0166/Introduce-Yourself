@@ -9,7 +9,7 @@
 		background-color :#333; 
 		text-align: center ;	
 		overflow: hidden;
-	        position: fixed;
+	        position: flex;
 
            }
            nav a { color : white ;
